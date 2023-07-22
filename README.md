@@ -1,4 +1,4 @@
-# Projeto Simples com HTML5 e CSS
+# Projeto Simples com HTML5 e CSS sem responsividade
 
 **Desenvolvido por** *Arthur Felipe MS*
 
